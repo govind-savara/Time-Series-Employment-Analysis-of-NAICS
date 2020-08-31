@@ -16,12 +16,12 @@ Following chart gives the analysis of NAICS codes
 
 Using the data exploratory analysis we find out the top 10 Industry sectors contributing to the Total Employment.
 
-![Top 10 Industry Sectors contribution towards Employment](./images/top_10_industry_employment_contribution_barplot.jpg)
+![Top 10 Industry Sectors contribution towards Employment](./images/top_10_industry_employment_contribution_barplot.JPG)
 
 ## Time Series analysis of Employment in Construction Sector
 Construction Sector is the top most employment contribution sector. Following line plot shows the employment of Construction Sector evolved overtime.
 
-![Employment in Construction Sector evolved overtime](./images/employement_in_construction_evolved_overtime.jpg)
+![Employment in Construction Sector evolved overtime](./images/employement_in_construction_evolved_overtime.JPG)
 
 The employment in Construction is rapidly increased from 2004 till the global crisis mid 2008. As the global crisis started there is decline in employment but recently it could able to catch up and now it is the top most industry contributing towards total employment.
 
