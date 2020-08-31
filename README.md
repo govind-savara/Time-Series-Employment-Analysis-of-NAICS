@@ -27,28 +27,28 @@ The employment in Construction is rapidly increased from 2004 till the global cr
 
 Following line plot shows the percentage of Employment contributed by Construction Sector to the total employment overtime.
 
-![Percentage of Employment Contributed by Construction sector overtime](./images/employment_percentage_contributed_by_construction_sector.jpg)
+![Percentage of Employment Contributed by Construction sector overtime](./images/employment_percentage_contributed_by_construction_sector.JPG)
 
 Following bar plot shows the various subsector's contribution towards employment of Construction Sector.
 
-![Subsector Employment contribution for Construction Sector](./images/subsector_employment_contribution_for_construction_sector.jpg)
+![Subsector Employment contribution for Construction Sector](./images/subsector_employment_contribution_for_construction_sector.JPG)
 
 This shows that Specialty trade Contractors subsector is the largest employment contributor for the Construction Sector.
 
 ## Time Series Employment in Food services and drinking places Sector
 Food services and drinking places Sector is the second largest employment contributor. 
 
-![Employment in Food services and drinking places Sector evolved overtime](./images/employement_in_food_sector_evolved_overtime.jpg)
+![Employment in Food services and drinking places Sector evolved overtime](./images/employement_in_food_sector_evolved_overtime.JPG)
 
 Following bar plot shows the various subsector's contribution of employment for Food services and drinking places Sector.
 
-![Subsector Employment contribution for Food services and drinking places Sector](./images/subsector_employment_contribution_for_food_sector.jpg)
+![Subsector Employment contribution for Food services and drinking places Sector](./images/subsector_employment_contribution_for_food_sector.JPG)
 
 
 ## Time series Employment Analysis of Repair, personal and non-profit services Sector
 Repair, personal and non-profit services Sector is the third largest employment contributor. Following line graph shows the percentage of employment contributed by this sector.
 
-![Percentage of Employment contributed by Repair, personal and non-profit services Sector](./images/employment_percentage_contributed_by_repair_sector.jpg)
+![Percentage of Employment contributed by Repair, personal and non-profit services Sector](./images/employment_percentage_contributed_by_repair_sector.JPG)
 
 # Conclusion
 More than 11% of employment is contributed by Construction Industry towards total employment every month from 2008 till now. 
